@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nastabujvalo/CLionProjects/oop2new/interfaces.h
+
+/Users/nastabujvalo/CLionProjects/oop2new/main.cpp
+interfaces.h
+/Users/nastabujvalo/CLionProjects/oop2new/interfaces.h
+
+/Users/nastabujvalo/CLionProjects/oop2new/methods.cpp
+iostream
+-
+interfaces.h
+/Users/nastabujvalo/CLionProjects/oop2new/interfaces.h
+

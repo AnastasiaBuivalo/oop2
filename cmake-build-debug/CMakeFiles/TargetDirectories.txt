@@ -1,0 +1,3 @@
+/Users/nastabujvalo/CLionProjects/oop2new/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nastabujvalo/CLionProjects/oop2new/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nastabujvalo/CLionProjects/oop2new/cmake-build-debug/CMakeFiles/oop2new.dir
